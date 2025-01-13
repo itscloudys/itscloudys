@@ -8,7 +8,7 @@
 
  💻 Skills: HTML, CSS, JavaScript, React, Python, Typescript and TailwindCss
 
- 🚀 Always Learning: Combining design and code to create aesthetically pleasing websites
+ 🚀 Always learning about ombining design and code to create aesthetically pleasing websites
   
  🌱 I’m currently learning about Data Analytics
 
